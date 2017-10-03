@@ -1,0 +1,31 @@
+body {
+    
+  animation: 7s infinite bgcolorchange;
+}
+@keyframes bgcolorchange {
+  0% {
+    background-color: #ffd3ca;
+  }
+  25% {
+    background-color: #fbffca;
+  }
+  50% {
+    background-color: #caffde;
+  }
+  75% {
+    background-color: #afbfff;
+  }
+  100% {
+    background-color: #facffa;
+  }
+}
+@-webkit-keyframes bgcolorchange {
+    0%   {background: red;}
+    25%  {background: yellow;}
+    75%  {background: green;}
+    100% {background: blue;}
+}
+
+/* 
+This .css file was created by PI (tjxpi.com). Copyright 2017 PI. All rights reserved.
+*/
