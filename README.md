@@ -1,2 +1,2 @@
-# Website
-Website for vtecx.
+# CDN
+CDN for vtecx.
