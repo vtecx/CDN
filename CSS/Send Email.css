@@ -1,0 +1,16 @@
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+
+form {font-family:'myFirstFont';
+}
+legend {border: 1px solid;
+font-family:'myFirstFont';
+border-radius: 10px}
+fieldset {width: 300px;
+padding: 10px 20px;
+border-radius: 10px}
+#submit {color: green;
+border-bottom: 2px solid grey;
+font-family:'myFirstFont'}
