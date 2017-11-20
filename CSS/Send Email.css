@@ -1,16 +1,24 @@
+
 @font-face {
-   font-family: myFirstFont;
-   src: url(sansation_light.woff);
+   font-family: Feronia;
+   src: url('../Fonts/Feronia/Feronia.eot'); /* IE9 Compat Modes */
+   src: url('../Fonts/Feronia/Feronia.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../Fonts/Feronia/Feronia.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../Fonts/Feronia/Feronia.woff') format('woff'), /* Pretty Modern Browsers */
+        url('../Fonts/Feronia/Feronia.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
-form {font-family:'myFirstFont';
+form {font-family:'Feronia';
 }
+
 legend {border: 1px solid;
-font-family:'myFirstFont';
+font-family:'Feronia';
 border-radius: 10px}
+
 fieldset {width: 300px;
 padding: 10px 20px;
 border-radius: 10px}
+
 #submit {color: green;
 border-bottom: 2px solid grey;
-font-family:'myFirstFont'}
+font-family:'Feronia'}
