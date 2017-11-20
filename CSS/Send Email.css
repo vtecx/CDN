@@ -8,11 +8,11 @@
         url('../Fonts/Feronia/Feronia.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
-form {font-family:'Feronia';
+form {font-family: 'Feronia';
 font-size: 18px}
 
 legend {border: 1px solid;
-font-family:'Feronia';
+font-family: 'Feronia';
 font-size: 18px;
 border-radius: 10px}
 
@@ -22,5 +22,5 @@ border-radius: 10px}
 
 #submit {color: green;
 border-bottom: 2px solid grey;
-font-family:'Feronia';
+font-family: 'Feronia';
 font-size: 18px}
